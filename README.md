@@ -36,3 +36,9 @@ Lumintu-Insurance/
 │   └── images/                 # Optimized Images used in design
 
 
+
+Tech Stack Used-
+HTML5: Semantic layouts (<header>, <section>, <span> instead of block structures for inline text alignment).
+SASS (SCSS): Advanced modular layout properties, variables, nesting, maps, and functions.
+Bootstrap Icons: Light-weight vector font iconography.
+Google Fonts: DM Sans typography engine.
